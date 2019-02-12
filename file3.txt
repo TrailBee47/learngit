@@ -1,1 +1,3 @@
-development 1.2 is going pretty weell
+development 1.2 is going pretty well
+
+Hello! welcome release 1.3
